@@ -47,11 +47,18 @@ Deployed on **Azure Kubernetes Service (AKS)**, with **Dockerized microservices*
 
 ---
 
-## 🌟 Highlights  
+## 🌟 Professional Highlights  
 
-- 🔧 **DataOps Intern** – Designed a real-time ETL pipeline using **Apache Airflow**, **Elasticsearch**, and **PostgreSQL** on AWS EC2.  
-- ♟️ **Vice President – ENSI Chess Club**: Led tournaments and events fostering teamwork and strategy.  
-- 💻 **Member – ENSI Competitive Programming Club**: Mentored peers in algorithms and problem-solving.  
+- 🔧 **DataOps Intern @ Wisevision IA Technologies** – Designed and deployed a real-time **ETL pipeline** using **Apache Airflow**, **Elasticsearch**, and **PostgreSQL** on **AWS EC2**.  
+- ☁️ **Part-Time DevOps Engineer** – Delivered secure, monitored, and automated cloud solutions integrating **OpenVPN**, **Prometheus**, and **Grafana** stacks.  
+- 🧠 **Research Focus** – Exploring automation and optimization of deep learning inference for intelligent systems.  
+
+---
+
+## 🤝 Leadership & Community  
+
+- ♟️ **Vice President – ENSI Chess Club**: Led tournaments and events promoting strategy and collaboration.  
+- 💻 **Member – ENSI Competitive Programming Club**: Mentored peers in algorithms and competitive problem-solving.  
 
 ---
 
