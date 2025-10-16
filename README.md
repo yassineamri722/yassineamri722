@@ -1,21 +1,16 @@
 # 👋 Hi, I'm Yassine El Amri  
 
 🎓 **Final-Year Computer Science Engineering Student @ ENSI (Tunisia)**  
-🚀 **DevOps | Cloud | Automation | Data Engineering Enthusiast**  
+🚀 **Aspiring DevOps Engineer | Cloud & Automation Enthusiast**  
 
 ---
 
 ## 💫 About Me  
 
-I’m a **DevOps Engineer in the making**, passionate about designing **scalable, automated, and observable** cloud systems.  
-My mission is to **bridge development and operations** through automation, infrastructure as code, and data-driven engineering.  
+I’m a **DevOps Engineer in the making**, passionate about building **scalable, automated, and observable cloud systems**.  
+My mission is to **bridge development and operations** through **automation, cloud engineering, and data-driven solutions**.  
 
-Currently working as a **Part-Time DevOps Engineer at Wisevision IA Technologies**, I focus on:
-- 🧩 Building secure and reliable cloud environments using **AWS** and **OpenVPN**.  
-- 📊 Centralizing observability with **Prometheus + Grafana** for live system monitoring.  
-- ⚙️ Automating CI/CD pipelines to accelerate delivery and minimize downtime.  
-
-💡 I thrive in environments where **automation meets innovation**, and I love turning complex cloud challenges into simple, repeatable solutions.
+I thrive in environments where **automation meets innovation**, and I love turning complex challenges into **simple, repeatable solutions**.  
 
 ---
 
@@ -33,24 +28,24 @@ Currently working as a **Part-Time DevOps Engineer at Wisevision IA Technologies
 
 ## 🚀 Featured Projects  
 
-### 🧱 [Flask–React DevOps App (GitOps & DevSecOps)](https://github.com/yassineamri722/flask-react-devops-app)
+### 🧱 [Flask–React DevOps App (GitOps & DevSecOps)](https://github.com/yassineamri722/flask-react-devops-app)  
 A 3-tier web app (React · Flask · PostgreSQL) deployed with **Helm** and **ArgoCD**, following GitOps principles.  
 Integrated **Trivy** & **SonarQube** for DevSecOps, and **Prometheus + Grafana** for full observability.
 
-### ⚙️ [Terraform Drift Fixer (Automation Tool)](https://github.com/yassineamri722/terraform-drift-agent)
+### ⚙️ [Terraform Drift Fixer (Automation Tool)](https://github.com/yassineamri722/terraform-drift-agent)  
 Python automation tool that detects and remediates **Terraform drift** automatically.  
 Executed via **GitHub Actions** to ensure continuous infrastructure compliance.
 
-### 🏠 [Home Automation System (Final Year Project)](https://github.com/yassineamri722/HomeAutomationSystem-master)
+### 🏠 [Home Automation System (Final Year Project)](https://github.com/yassineamri722/HomeAutomationSystem-master)  
 An AI-powered smart home system integrating **Reinforcement Learning** and **Computer Vision**.  
-Deployed on **Azure Kubernetes Service (AKS)**, with **Dockerized microservices** and **CI/CD pipelines** for automation.  
+Deployed on **Azure Kubernetes Service (AKS)** with **Dockerized microservices** and **CI/CD pipelines** for automation.  
 
 ---
 
 ## 🌟 Professional Highlights  
 
-- 🔧 **DataOps Intern @ Wisevision IA Technologies** – Designed and deployed a real-time **ETL pipeline** using **Apache Airflow**, **Elasticsearch**, and **PostgreSQL** on **AWS EC2**.  
-- ☁️ **Part-Time DevOps Engineer** – Delivered secure, monitored, and automated cloud solutions integrating **OpenVPN**, **Prometheus**, and **Grafana** stacks.  
+- 🔧 **DataOps Intern @ Wisevision IA Technologies** – Designed and deployed a real-time **ETL pipeline** using **Airflow**, **Elasticsearch**, and **PostgreSQL**.  
+- ☁️ **Part-Time DevOps Engineer** – Delivered secure, monitored, and automated cloud solutions.  
 - 🧠 **Research Focus** – Exploring automation and optimization of deep learning inference for intelligent systems.  
 
 ---
@@ -65,7 +60,7 @@ Deployed on **Azure Kubernetes Service (AKS)**, with **Dockerized microservices*
 ## 🛠️ My DevOps Philosophy  
 
 > “Automate everything. Monitor everywhere. Deliver continuously.”  
-> I believe DevOps is not just about tools — it’s about creating a **culture of reliability, speed, and collaboration**.
+> DevOps is not just about tools — it’s about creating a **culture of reliability, speed, and collaboration**.
 
 ---
 
